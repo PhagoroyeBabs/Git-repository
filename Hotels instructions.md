@@ -16,4 +16,4 @@ However, the management has been receiving complaints about slow room service in
 ![Hotelz](Hotelz.jpg)
 This project analyses the ratings of **Hotels** in some regions which are already stated in the column Location.
 
-## :star:This code is available [here](notebook.ipynb)
+## :star:This code is available [here](workspace/notebook.ipynb)
